@@ -16,5 +16,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+  },
+  "engines": {
+    "node": "16.18.1"
   }
 }
